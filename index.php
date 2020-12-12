@@ -575,12 +575,12 @@
         </div>
 		<div class="col-sm-6">
           <div class="social-links text-center text-md-right pt-3 pt-md-0" style="margin-top: 5px; margin-bottom:5px;">
-			<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> 
-			<a href="github.com" class="github"><i class="bx bxl-github"></i></a>
-			<a href="https://www.instagram.com/commercesolutions/" class="instagram"><i class="bx bxl-instagram"></i></a>
+			<a href="https://in.linkedin.com/in/safaan-amin-747a3b193?challengeId=AQE6fxndegzViAAAAXZXZtDFbAevDOvjlaZ_VjL4-AIg5sqq12nCnLyOTrV3qL9xZKevQ8m1m5OaY7OTizN6wEj2KQE_tBkl0Q&submissionId=b2caae88-24ff-4f16-7940-35d0a64bb638" class="linkedin"><i class="bx bxl-linkedin"></i></a> 
+			<a href="https://github.com/SafaanHashmi" class="github"><i class="bx bxl-github"></i></a>
+			<a href="https://www.instagram.com/safaanhashmi/" class="instagram"><i class="bx bxl-instagram"></i></a>
 			<!--<a href="https://www.google.com/search?channel=trow2&client=firefox-b-d&q=commerce+solutions+indore" class="google-plus"><i class="bx bxl-google"></i></a> -->
-		    <a href="https://twitter.com/safaanhashmi" class="twitter"><i class="bx bxl-twitter"></i></a>
-			<a href="https://www.facebook.com/commercesolutions/" class="facebook"><i class="bx bxl-facebook"></i></a>
+		    <a href="https://twitter.com/safaanamin" class="twitter"><i class="bx bxl-twitter"></i></a>
+			<a href="https://www.facebook.com/safaanamin.hashmi" class="facebook"><i class="bx bxl-facebook"></i></a>
 		   
 		  </div>
         </div>
