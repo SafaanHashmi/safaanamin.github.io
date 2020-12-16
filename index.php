@@ -411,7 +411,7 @@
                 </div>
                 <div class="content-test">
                   <p class="description lead">
-                    A simple static website made by using google tools according to the need of the client.      
+                    A simple static website made by using google tools according to the budget and need of client.      
                   </p>
                   <!--<span class="comit"><i class="fa fa-quote-right"></i></span>-->
 				  <a href="https://globalsolutionsindore.business.site/?utm_source=gmb&utm_medium=referral" class="btn-get-started" target="_blank">Visit Now</a>
