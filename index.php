@@ -26,7 +26,12 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-
+  <!-- =======================================================
+  * Template Name: DevFolio - v2.3.0
+  * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
   
   <style>
 	@media (max-width: 750px) {
@@ -213,7 +218,7 @@
                     <p class="lead">
                       Currently i am in 4th year of my computer science engineering 
 					  course and focusing to get placed in an MNC and i also enjoys 
-					  to work as freelancer. As i always had intrest towards 
+					  to work as freelancer. As i always had interest towards 
 					  technology and science therefore i opted engineering as a career. During 
 					  my engineering i got interest towards web develoment so decided to learn 
 					  various languages, technologies and frameworks related to web development.
@@ -315,6 +320,58 @@
 				  <a href="https://commercesolutions.herokuapp.com" class="btn-get-started" target="_blank">Visit Now</a>
                 </div>
               </div>
+			  <div class="testimonial-box">
+                <div class="author-test">
+					<div class="row">
+						<div class="col-lg-6 hide-when-narrow" style="justify-content: center;">
+							<div class="box">
+								<div class="slide-img">
+									<img src="assets/img/weatherapp1.png" alt="" class=" b-shadow-a">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 hide-when-narrow">
+							<div class="box">
+								<div class="slide-img">
+									<img src="assets/img/weatherapp2.png" alt="" class=" b-shadow-a">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row mt-3">
+						<div class="col-lg-6 hide-when-narrow" style="justify-content: center;">
+							<div class="box">
+								<div class="slide-img">
+									<img src="assets/img/weatherapp3.png" alt="" class=" b-shadow-a">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 hide-when-narrow">
+							<div class="box">
+								<div class="slide-img">
+									<img src="assets/img/weatherapp4.png" alt="" class=" b-shadow-a">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row hide-when-wide">
+						<div class="col-lg-12">
+							<img src="assets/img/weatherapp1.png" alt="" class=" b-shadow-a">
+						</div>
+					</div>
+					<div class="hide-when-narrow"><span class="author">Weather Inspect Web App</span></div>
+					<div class="hide-when-wide"><span class="author1">Weather Inspect Web App</span></div>
+                </div>
+                <div class="content-test">
+                  <p class="description lead">
+                    Weather Inspect is a weater card which can be used to get weather update of any city just by simply entering the name 
+					of that city. I used API of O.W.M. to collect the data and than decoded it in json format to use it propely. I have also 
+					used PHP and cURL to connect to the server of O.W.M.
+                  </p>
+                  <!--<span class="comit"><i class="fa fa-quote-right"></i></span>-->
+				  <a href="https://weatherinspect.herokuapp.com/" class="btn-get-started" target="_blank">Visit Now</a>
+                </div>
+              </div>
               <div class="testimonial-box">
                 <div class="author-test">
 					<div class="row">
@@ -411,7 +468,7 @@
                 </div>
                 <div class="content-test">
                   <p class="description lead">
-                    A simple static website made by using google tools according to the budget and need of client.      
+                    A simple static website made by using google tools according to the need of the client.      
                   </p>
                   <!--<span class="comit"><i class="fa fa-quote-right"></i></span>-->
 				  <a href="https://globalsolutionsindore.business.site/?utm_source=gmb&utm_medium=referral" class="btn-get-started" target="_blank">Visit Now</a>
