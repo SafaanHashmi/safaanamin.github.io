@@ -11,7 +11,7 @@
 
   <!-- Favicons -->
   <link href="assets/img/safaan amin hashmi logo large.png" rel="icon">
-  <link href="assets/img/safaan amin hashmi large.png" rel="apple-touch-icon">
+  <link href="assets/img/safaan amin hashmi logo large.png" rel="apple-touch-icon">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -364,7 +364,7 @@
                 </div>
                 <div class="content-test">
                   <p class="description lead">
-                    Weather Inspect is a weater card which can be used to get weather update of any city just by simply entering the name 
+                    Weather Inspect is a weather card which can be used to get weather update of any city just by simply entering the name 
 					of that city. I used API of O.W.M. to collect the data and than decoded it in json format to use it propely. I have also 
 					used PHP and cURL to connect to the server of O.W.M.
                   </p>
@@ -468,7 +468,7 @@
                 </div>
                 <div class="content-test">
                   <p class="description lead">
-                    A simple static website made by using google tools according to the need of the client.      
+                    A simple static website made by using google tools according to the need and budget of the client.      
                   </p>
                   <!--<span class="comit"><i class="fa fa-quote-right"></i></span>-->
 				  <a href="https://globalsolutionsindore.business.site/?utm_source=gmb&utm_medium=referral" class="btn-get-started" target="_blank">Visit Now</a>
@@ -490,7 +490,7 @@
                 Services
               </h3>
               <p class="subtitle-a">
-                Contact me if you any query related to these services  
+                Contact me if you have any query related to these services  
               </p>
               <div class="line-mf"></div>
             </div>
