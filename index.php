@@ -4,15 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
   <title>Safaan Amin Hashmi</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
-
   <!-- Favicons -->
   <link href="assets/img/safaan amin hashmi logo large.png" rel="icon">
   <link href="assets/img/safaan amin hashmi logo large.png" rel="apple-touch-icon">
-
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -22,10 +19,8 @@
   
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
   <!-- =======================================================
   * Template Name: DevFolio - v2.3.0
   * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
@@ -80,7 +75,6 @@
 	  border: 2px solid #fff;;
 	  color: #fff;;
 	}
-
 	 .btn-get-started:hover {
 	  background: #c4ba7d;;
 	  border: 2px solid #c4ba7d;;
@@ -90,9 +84,7 @@
   </style>
   
 </head>
-
 <body id="page-top">
-
   <!-- ======= Header/ Navbar ======= -->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
@@ -150,7 +142,6 @@
 			  </div>
 			  <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
 			</div>  
-
         </div>
       </div>
     </div>
@@ -261,7 +252,6 @@
           </div>
         </div>
 	</section><!-- End Portfolio Section -->
-
     <!-- ======= Testimonials Section ======= -->
     <div class="testimonials paralax-mf bg-image" style="background-image: url(assets/img/pattern-bg.jpg)">
       <div class="overlay-mf"></div>
@@ -269,20 +259,20 @@
         <div class="row">
           <div class="col-md-12">
             <div id="testimonial-mf" class="owl-carousel owl-theme">
-              <div class="testimonial-box">
+			  <div class="testimonial-box">
                 <div class="author-test">
 					<div class="row">
 						<div class="col-lg-6 hide-when-narrow" style="justify-content: center;">
 							<div class="box">
 								<div class="slide-img">
-									<img src="assets/img/comsol-page1.png" alt="" class=" b-shadow-a">
+									<img src="assets/img/hms1.png" alt="" class=" b-shadow-a" style="padding: 5px; border-radius: 20px;">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 hide-when-narrow">
 							<div class="box">
 								<div class="slide-img">
-									<img src="assets/img/comsol-page2.png" alt="" class=" b-shadow-a">
+									<img src="assets/img/hms2.png" alt="" class=" b-shadow-a" style="padding: 5px; border-radius: 20px;">
 								</div>
 							</div>
 						</div>
@@ -291,21 +281,74 @@
 						<div class="col-lg-6 hide-when-narrow" style="justify-content: center;">
 							<div class="box">
 								<div class="slide-img">
-									<img src="assets/img/comsol-page3.png" alt="" class=" b-shadow-a">
+									<img src="assets/img/hms4.png" alt="" class=" b-shadow-a" style="padding: 5px; border-radius: 20px;">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 hide-when-narrow">
 							<div class="box">
 								<div class="slide-img">
-									<img src="assets/img/comsol-page4.png" alt="" class=" b-shadow-a">
+									<img src="assets/img/hms5.png" alt="" class=" b-shadow-a" style="padding: 5px; border-radius: 20px;">
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="row hide-when-wide">
 						<div class="col-lg-12">
-							<img src="assets/img/comsol-page1.png" alt="" class=" b-shadow-a">
+							<img src="assets/img/hms1.png" alt="" class=" b-shadow-a" style="padding: 3px; border-radius: 10px;">
+						</div>
+					</div>
+					<div class="hide-when-narrow"><span class="author">Hospital Management System</span></div>
+					<div class="hide-when-wide"><span class="author1">Hospital Management System</span></div>
+                </div>
+                <div class="content-test">
+                  <p class="description lead">
+                    This is a large scale web application which i got during my intership under Technostrap Digital Pvt. Ldt. for two months. The project consists of some of the key features like 
+					appointment booking system,patient registration process, digital medical records, well mainted patient and doctor profile, bill reports, Inpatient(IPD) management, room management and it serves as a mode if interactions between the hospital and the patient with a friendly and convenient UI/UX design. 
+                 
+                  </p>
+                  <!--<span class="comit"><i class="fa fa-quote-right"></i></span>-->
+				  <a href="#" class="btn-get-started" target="_blank">Watch Out</a>
+				  <a href="https://github.com/SafaanHashmi/Hospital-Management-System-HMS-" class="btn-get-started" target="_blank">Get Code</a>
+                </div>
+              </div>
+              <div class="testimonial-box">
+                <div class="author-test">
+					<div class="row">
+						<div class="col-lg-6 hide-when-narrow" style="justify-content: center;">
+							<div class="box">
+								<div class="slide-img">
+									<img src="assets/img/comsol-page1.png" alt="" class=" b-shadow-a" style="padding: 5px; border-radius: 20px;">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 hide-when-narrow">
+							<div class="box">
+								<div class="slide-img">
+									<img src="assets/img/comsol-page2.png" alt="" class=" b-shadow-a" style="padding: 5px; border-radius: 20px;">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row mt-3">
+						<div class="col-lg-6 hide-when-narrow" style="justify-content: center;">
+							<div class="box">
+								<div class="slide-img">
+									<img src="assets/img/comsol-page5.png" alt="" class=" b-shadow-a" style="padding: 5px; border-radius: 20px;">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 hide-when-narrow">
+							<div class="box">
+								<div class="slide-img">
+									<img src="assets/img/comsol-page6.png" alt="" class=" b-shadow-a" style="padding: 5px; border-radius: 20px;">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row hide-when-wide">
+						<div class="col-lg-12">
+							<img src="assets/img/comsol-page1.png" alt="" class=" b-shadow-a" style="padding: 3px; border-radius: 10px;">
 						</div>
 					</div>
 					<div class="hide-when-narrow"><span class="author">Commerce Solutions Indore</span></div>
@@ -313,8 +356,8 @@
                 </div>
                 <div class="content-test">
                   <p class="description lead">
-                    An institute website with multiple pages made using HTML, CSS, JS, Bootstrap and PHP. Soon going to add more 
-					features in this site with a proper admin panel and database supoort.
+                    An institute website with multiple pages made using HTML, CSS, JS, Bootstrap and PHP. This website is also backed with an 
+					admin panel and database support which provides some of the necessary features like publish a blog, enguiry details, etc.
                   </p>
                   <!--<span class="comit"><i class="fa fa-quote-right"></i></span>-->
 				  <a href="https://commercesolutions.herokuapp.com" class="btn-get-started" target="_blank">Visit Now</a>
@@ -531,7 +574,6 @@
         </div>
       </div>
     </div><!-- End Testimonials Section -->
-
 	<!-- ======= Services Section ======= -->
     <section id="service" class="services-mf pt-5 route">
       <div class="container">
@@ -691,10 +733,8 @@
       </div>
     </div>
   </footer><!-- End  Footer -->
-
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
   <div id="preloader"></div>
-
   <!-- Vendor JS Files -->
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -705,11 +745,8 @@
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/typed.js/typed.min.js"></script>
   <script src="assets/vendor/venobox/venobox.min.js"></script>
-
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
 </body>
-
 </html>
   
