@@ -303,12 +303,12 @@
                 </div>
                 <div class="content-test">
                   <p class="description lead">
-                    This is a large scale web application which i got during my intership under Technostrap Digital Pvt. Ldt. for two months. The project consists of some of the key features like 
-					appointment booking system,patient registration process, digital medical records, well mainted patient and doctor profile, bill reports, Inpatient(IPD) management, room management and it serves as a mode if interactions between the hospital and the patient with a friendly and convenient UI/UX design. 
+                    This is a large scale web application which i got during my internship under TechnoStrap Digital Pvt. Ldt. for two months. The project consists of some of the key features like 
+					appointment booking system,patient registration process, digital medical records, well maintained patient and doctor profile, bill reports, Inpatient(IPD) management, room management and it serves as a mode if interactions between the hospital and the patient with a friendly and convenient UI/UX design. 
                  
                   </p>
                   <!--<span class="comit"><i class="fa fa-quote-right"></i></span>-->
-				  <a href="#" class="btn-get-started" target="_blank">Watch Out</a>
+				  <a href="https://youtu.be/x-l5CLEfjxQ" class="btn-get-started" target="_blank">Watch Out</a>
 				  <a href="https://github.com/SafaanHashmi/Hospital-Management-System-HMS-" class="btn-get-started" target="_blank">Get Code</a>
                 </div>
               </div>
