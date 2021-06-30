@@ -725,7 +725,7 @@
 			<a href="https://github.com/SafaanHashmi" class="github"><i class="bx bxl-github"></i></a>
 			<a href="https://www.instagram.com/safaanhashmi/" class="instagram"><i class="bx bxl-instagram"></i></a>
 			<!--<a href="https://www.google.com/search?channel=trow2&client=firefox-b-d&q=commerce+solutions+indore" class="google-plus"><i class="bx bxl-google"></i></a> -->
-		    <a href="https://twitter.com/safaanamin" class="twitter"><i class="bx bxl-twitter"></i></a>
+		    <a href="https://www.youtube.com/channel/UCPVfj84EFOquwxS2h6XRsEw" class="twitter"><i class="bx bxl-youtube"></i></a>
 			<a href="https://www.facebook.com/safaanamin.hashmi" class="facebook"><i class="bx bxl-facebook"></i></a>
 		   
 		  </div>
